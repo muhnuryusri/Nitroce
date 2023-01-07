@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/Nitroce/app/src/main/res/drawable/ic_baseline_camera_24.xml" value="0.1775" />
+        <entry key="..\:/Project/Nitroce/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.177" />
+        <entry key="..\:/Project/Nitroce/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1775" />
+        <entry key="..\:/Project/Nitroce/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Project/Nitroce/app/src/main/res/layout/activity_live_view.xml" value="0.16381578947368422" />
+        <entry key="..\:/Project/Nitroce/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Project/Nitroce/app/src/main/res/layout/activity_splash_screen.xml" value="0.176" />
+        <entry key="..\:/Project/Nitroce/app/src/main/res/layout/fragment_dashboard.xml" value="0.16381578947368422" />
+        <entry key="..\:/Project/Nitroce/app/src/main/res/layout/fragment_history.xml" value="0.1444078947368421" />
+        <entry key="..\:/Project/Nitroce/app/src/main/res/layout/fragment_home.xml" value="0.15493421052631579" />
+        <entry key="..\:/Project/Nitroce/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16381578947368422" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
